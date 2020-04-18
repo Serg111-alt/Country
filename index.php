@@ -203,12 +203,12 @@ $str_form = "<span id='massage'></span>
                     <div class="row grid">
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all des">
                           <div class="item">
-                            <a href="images/1.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/1.png" alt=""></a>
+                            <a href="1.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/1.png" alt=""></a>
                           </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all dev">
                           <div class="item">
-                            <a href="images/2.jpg  " data-lightbox="image-1" data-title="Our Projects"><img src="images/2.jpg" alt=""></a>
+                            <a href="2.jpg  " data-lightbox="image-1" data-title="Our Projects"><img src="images/2.jpg" alt=""></a>
                           </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all gra">
@@ -216,17 +216,17 @@ $str_form = "<span id='massage'></span>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all tsh">
                           <div class="item">
-                            <a href="images/2.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/2.png" alt=""></a>
+                            <a href="2.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/2.png" alt=""></a>
                           </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all dev">
                           <div class="item">
-                            <a href="images/6.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/6.png" alt=""></a>
+                            <a href="6.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/6.png" alt=""></a>
                           </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 all des">
                           <div class="item">
-                            <a href="images/5.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/5.png" alt=""></a>
+                            <a href="5.png" data-lightbox="image-1" data-title="Our Projects"><img src="images/5.png" alt=""></a>
                           </div>
                         </div>
                     </div>
