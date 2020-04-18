@@ -50,7 +50,7 @@ body {
 </head>
 <body>
 <video autoplay muted loop id="myVideo">
-  <source src="videos/space.mp4" >
+  <source src="space.mp4" >
   Your browser does not support HTML5 video.
   
 </video>
